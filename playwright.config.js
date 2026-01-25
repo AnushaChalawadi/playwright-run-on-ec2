@@ -12,7 +12,7 @@ const config = {
   use: {
     actionTimeout: 0,
     trace: 'on-first-retry',
-    headless: false,
+    headless: true,
     viewport: { width: 1280, height: 720 },
     video: 'on-first-retry',
     screenshot: 'only-on-failure',
