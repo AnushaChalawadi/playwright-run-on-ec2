@@ -4,9 +4,9 @@ const credentials = require('../config/data/credentials');
 const Data = require('../config/data/testData');
 const URL = require('../config/data/urlList');
 
-const HomePage = require('../pages/homePage');
+const HomePage = require('../pages/HomePage');
 const AddToCartPage = require('../pages/AddToCartPage');
-const PlaceOrderPage = require('../pages/placeOrderPage');
+const PlaceOrderPage = require('../pages/PlaceOrderPage');
 
 let homePage;
 let addToCartPage;
