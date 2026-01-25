@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7395","Select category in home page and verify products","chromium","2026-01-19","passed","2026-01-19","E2E testcases for OpenCart Application","e2e_opencart.spec.js","",""
+"","10880","Place and purchase order successfully","chromium","2026-01-19","passed","2026-01-19","E2E testcases for OpenCart Application","e2e_opencart.spec.js","",""
+"","14344","Add product to cart and verify the product in cart page","chromium","2026-01-19","passed","2026-01-19","E2E testcases for OpenCart Application","e2e_opencart.spec.js","",""
